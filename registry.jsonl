@@ -1,0 +1,1 @@
+{"id": "chip-ec03-time-cost", "agreed": "2026-06-15", "intent": "EC-03 — charge event time_cost to the clock (escape-the-valley game)", "branch": "harden/feature-v1.1", "base_sha": "unknown (branched from escape-the-valley main)", "produced_sha": "1a28e35", "status": "reconciled", "await_plan": "reconciled into the v1.1 feature branch; verified green (676 tests, ruff clean)"}

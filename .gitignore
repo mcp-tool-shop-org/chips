@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# chip.py atomic-write temp file
+registry.jsonl.tmp
+
+# OS cruft
+.DS_Store
+Thumbs.db
